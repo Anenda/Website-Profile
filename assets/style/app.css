@@ -1,0 +1,99 @@
+body{
+    margin-top: 20px;
+    background: linear-gradient(#000000 0%,#370000 40%, #ffffff 100%);
+}
+
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
+}
+
+.profileImage {
+    width: 200px;
+}
+
+.profile h2{
+    color: white;
+}
+
+.profile h5{
+    color: white;
+    transform: translateY(-10px);
+}
+
+.biodata{
+    background-color: white;
+    color:black;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+
+.aboutme{
+    display: flex;
+    justify-content: center;
+    align-items: top;
+    flex-direction: column;
+}
+
+.aboutmesetting{
+    background-color: #ffffff;
+}
+
+.riwayatpendidikan {
+    padding-top: 50px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.riwayatpendidikan h2{
+    color: white;
+}
+
+
+.riwayatpendidikan h5{
+    color: rgb(0, 0, 0);
+}
+.riwayatpendidikan container h4{
+    color: rgb(0, 0, 0);
+}
+
+.riwayatpendidikan p{
+    color: rgb(0, 0, 0);
+}
+
+.projects {
+    color: white;
+    background: linear-gradient(#000000 0%,#370000 40%, #000000 100%);
+    padding-bottom: 100px;
+}
+
+.contact a{
+    color: white;
+    font-size: 20px;
+}
+
+.kontak {
+    padding-top: 50px;
+}
+
+.navigasi1 {
+    color: white;
+}
+
+.card:hover{
+    transform: scale(1.05);
+}
+
+.card {
+    transition: all 0.3s;
+}
+
+.wave1{
+    color: aquamarine;
+}
